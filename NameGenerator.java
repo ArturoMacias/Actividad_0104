@@ -9,8 +9,8 @@ public class NameGenerator
 {
     
     public final static int BEGIN_INDEX = 0;
-    public final static int END_INDEX = 3;
-    public final static int END_INDEX_2 = 4;
+    public final static int END_INDEX = 2;
+    public final static int END_INDEX_2 = 3;
 
     /**
      * Constructor for objects of class NameGenerator
